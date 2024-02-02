@@ -1,2 +1,0 @@
-# travelbuddy
-Ganeshji
